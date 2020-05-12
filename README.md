@@ -19,3 +19,6 @@ ANN Evaluation:-
   - The 'Dropout' method in my ANNs hidden layers to prevent over-fitting.
   - Saving my ANNs loss history for records purposes.
   
+  Please view my 'ANNcomprehensionNotes' for a step-by-step analysis and breakdown of my work and how I did it. 
+  https://github.com/YousefAlKafif/ANNonKeras/blob/master/ANNcomprehensionNotes.pdf
+  
