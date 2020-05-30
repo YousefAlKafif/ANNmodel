@@ -1,5 +1,5 @@
 # ANNmodel
-This is an Artificial Neural Network Deep-Learning model I created to predict whether a customer will leave the bank using a customers geographical location, credit score, gender, age, tenure, balance, # of products purchased, credit card holder or not, active member or not, and estimated salary. I used a dataset that contained information on 10,000 mock customers which also included whether or not the customer had left the bank - which was used for validation. 
+This is an Artificial Neural Network Deep-Learning model I created to predict whether a customer will leave the bank using a customers geographical location, credit score, gender, age, tenure, balance, # of products purchased, credit card holder or not, active member or not, and estimated salary.  This is done to gain insight on the factors that affect a business' custom churn rate. I used a dataset that contained information on 10,000 mock customers which also included whether or not the customer had left the bank - which was used for validation in this supervised learning project. 
 
 This was done using Keras' API that ran on TensorFlow. 
 
